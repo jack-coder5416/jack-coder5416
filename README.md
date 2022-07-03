@@ -7,19 +7,19 @@
 <br>
   
   <a href="https://www.linkedin.com/in/jatin-pal-a9237320a">
-    <img align="left" alt="Aryan's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Jatin's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
  
   <br>
   <br>
-  hi, i'm Jatin Pal, a passionate self-taught programmer and a Flutter and Django developer from India. I love problem-solving and have solved over 900+ problems on various coding platforms , I also have a keen interest in web development and competitive programming
+  Hi, I'm Jatin Pal, a passionate self-taught programmer and a Flutter and Django developer from India. I love problem-solving and have solved over 900+ problems on various coding platforms , I also have a keen interest in web development and competitive programming
 
   I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   
   <img align="right" alt="GIF" src="https://github.com/jack-coder5416/jack-coder5416/blob/main/gg.gif?raw=true" width="480" height="580" />
 
 - 💼 any freelance work? do reach, [email](mailto:paljatin479@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
 
 <br>
 
