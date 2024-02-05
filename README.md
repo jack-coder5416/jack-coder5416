@@ -6,11 +6,9 @@
 <br>
   
 <a href="https://www.linkedin.com/in/jatin-pal-a9237320a">
-  <img align="left" alt="Jatin's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jatin's LinkedIN" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
- 
-<br>
-<br>
+
 
 Hi there! I'm Jatin Pal, a passionate self-taught programmer and a Flutter and Django developer from India. I have a knack for problem-solving and have successfully tackled over 900+ challenges across various coding platforms. My interests also extend to web development and competitive programming.
 
